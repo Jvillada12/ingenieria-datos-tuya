@@ -1,0 +1,13 @@
+# Archivos de datos generados
+data/output/
+*.db
+*.xlsx
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+
+# Sistema
+.DS_Store
